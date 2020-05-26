@@ -108,3 +108,4 @@ output.mp4
 yolov3.weights
 yolov3-tiny.weights
 object-detection.jpg
+.vscode
